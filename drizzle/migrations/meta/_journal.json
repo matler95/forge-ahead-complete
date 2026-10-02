@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790973226158,
+      "tag": "0000_dentalhub_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790973520660,
+      "tag": "0001_links_insert_roles",
+      "breakpoints": true
+    }
+  ]
+}
